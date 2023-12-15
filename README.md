@@ -1,0 +1,2 @@
+- Hosted at https://romain-jacob.github.io/iotbench/
+- Redirected to from https:/iotbench.ethz.ch/
